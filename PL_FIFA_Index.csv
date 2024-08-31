@@ -1,0 +1,121 @@
+season,team,team_att,team_mid,team_def,team_ovr
+2024,Manchester City,87,86,83,85
+2024,Liverpool,84,82,84,83
+2024,Arsenal,82,84,81,82
+2024,Manchester Utd,82,83,80,82
+2024,Tottenham,81,80,79,81
+2024,Newcastle Utd,79,81,82,81
+2024,Aston Villa,82,79,79,80
+2024,Chelsea,77,81,78,80
+2024,West Ham,78,79,78,78
+2024,Everton,79,77,75,77
+2024,Brighton,77,77,78,77
+2024,Fulham,76,77,76,77
+2024,Nott'ham Forest,75,77,75,77
+2024,Wolves,75,77,76,76
+2024,Brentford,75,76,76,76
+2024,Crystal Palace,75,76,76,76
+2024,Bournemouth,75,75,74,75
+2024,Burnley,69,74,73,74
+2024,Sheffield Utd,72,74,72,73
+2024,Luton Town,72,72,72,72
+2023,Manchester City,85,87,84,85
+2023,Liverpool,84,82,84,84
+2023,Chelsea,83,79,83,83
+2023,Tottenham,84,83,80,82
+2023,Manchester Utd,82,83,81,82
+2023,Arsenal,81,83,80,81
+2023,Leicester City,82,80,76,79
+2023,West Ham,79,80,78,79
+2023,Newcastle Utd,79,78,79,79
+2023,Aston Villa,78,79,79,79
+2023,Wolves,78,80,74,78
+2023,Everton,78,77,76,77
+2023,Nott'ham Forest,75,76,77,77
+2023,Crystal Palace,77,76,76,76
+2023,Leeds United,77,76,75,76
+2023,Fulham,77,76,74,76
+2023,Southampton,76,72,76,76
+2023,Brighton,75,76,77,76
+2023,Brentford,76,75,74,75
+2023,Bournemouth,72,73,73,74
+2022,Liverpool,86,84,85,85
+2022,Manchester City,84,87,86,85
+2022,Chelsea,84,85,83,84
+2022,Manchester Utd,82,83,81,83
+2022,Tottenham,83,81,78,81
+2022,Leicester City,80,80,78,80
+2022,Arsenal,77,80,77,80
+2022,West Ham,80,79,77,79
+2022,Aston Villa,79,78,79,78
+2022,Wolves,78,80,78,78
+2022,Everton,78,78,77,78
+2022,Newcastle Utd,78,77,77,77
+2022,Leeds United,77,77,75,76
+2022,Crystal Palace,77,76,75,76
+2022,Burnley,77,75,76,76
+2022,Southampton,75,76,76,76
+2022,Brighton,75,73,77,76
+2022,Brentford,74,75,74,74
+2022,Watford,74,75,74,74
+2022,Norwich City,75,73,73,73
+2021,Liverpool,86,83,80,85
+2021,Manchester City,85,86,83,85
+2021,Tottenham,89,82,81,82
+2021,Manchester Utd,83,82,82,82
+2021,Chelsea,82,84,82,82
+2021,Arsenal,83,79,79,80
+2021,Leicester City,80,81,79,80
+2021,Everton,81,79,80,79
+2021,Wolves,77,81,78,79
+2021,West Ham,79,79,77,78
+2021,Aston Villa,77,77,77,77
+2021,Leeds United,78,76,75,76
+2021,Southampton,77,77,76,76
+2021,Crystal Palace,77,75,75,76
+2021,Newcastle Utd,77,75,74,76
+2021,Burnley,75,76,77,76
+2021,Brighton,75,76,76,7
+2021,Fulham,74,75,74,75
+2021,West Brom,74,74,72,73
+2021,Sheffield Utd,71,74,73,73
+2020,Manchester City,87,86,83,85
+2020,Liverpool,87,83,85,85
+2020,Tottenham,85,82,82,82
+2020,Manchester Utd,83,81,81,81
+2020,Chelsea,80,84,81,81
+2020,Arsenal,84,82,78,80
+2020,Leicester City,80,79,79,79
+2020,West Ham,82,78,73,78
+2020,Everton,80,78,79,78
+2020,Wolves,79,79,78,78
+2020,Watford,76,78,75,77
+2020,Newcastle Utd,75,78,77,77
+2020,Crystal Palace,73,77,76,77
+2020,Bournemouth,78,76,76,76
+2020,Burnley,77,76,76,76
+2020,Aston Villa,77,75,75,76
+2020,Southampton,76,76,76,76
+2020,Brighton,75,76,76,76
+2020,Sheffield Utd,73,77,75,75
+2020,Norwich City,75,74,72,74
+2019,Manchester City,86,88,82,85
+2019,Tottenham,86,82,83,83
+2019,Liverpool,86,82,82,83
+2019,Chelsea,85,83,82,83
+2019,Manchester Utd,83,83,80,82
+2019,Arsenal,82,83,80,82
+2019,Everton,77,80,79,79
+2019,West Ham,78,78,77,78
+2019,Leicester City,78,76,79,78
+2019,Crystal Palace,79,77,76,77
+2019,Bournemouth,79,76,77,77
+2019,Watford,78,78,77,77
+2019,Burnley,77,75,77,77
+2019,Wolves,75,80,76,77
+2019,Brighton,76,77,76,76
+2019,Newcastle Utd,75,77,76,76
+2019,Southampton,75,77,74,76
+2019,Fulham,78,76,73,75
+2019,Huddersfield,72,73,75,74
+2019,Cardiff City,73,73,72,73
